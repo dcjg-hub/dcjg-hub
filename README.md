@@ -8,14 +8,14 @@
 <h3 align="center">🔥 Consistency Streak</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swari77&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=dcjg-hub&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swari77&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dcjg-hub&theme=react-dark&hide_border=true"/>
 </p>
 
 
