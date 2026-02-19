@@ -5,9 +5,12 @@
 
 <h2 align="center">🔥 My Coding Streak</h2>
 
+<h3 align="center">🔥 Consistency Streak</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=swari77&theme=radical&hide_border=true&border_radius=15&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"/>
+  <img src="https://streak-stats.demolab.com?user=swari77&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
 </p>
+
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
